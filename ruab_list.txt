@@ -4,9 +4,6 @@ yt3.ggpht.com
 youtube.com
 m.youtube.com
 youtu.be
-i.ytimg.com
-yt3.ggpht.com
-googlevideo.com
 chatgpt.com
 openai.com
 github.com
@@ -3221,3 +3218,5 @@ warsaw10158.discord.gg
 35.240.0.0/13
 5.200.14.128/25
 66.22.192.0/18
+jetbrains.com
+jetbra.in
