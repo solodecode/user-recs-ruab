@@ -69,3 +69,4 @@ jetbra.in
 brawlstarsgame.com
 game.brawlstarsgame.com
 cdn.id.supercell.com
+sora.com
