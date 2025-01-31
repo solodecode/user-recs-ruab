@@ -70,3 +70,8 @@ brawlstarsgame.com
 game.brawlstarsgame.com
 cdn.id.supercell.com
 sora.com
+ngrok.com
+ngrok-agent.com
+ngrok-free.app
+ngrok.dev
+ngrok.io
