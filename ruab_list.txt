@@ -75,3 +75,5 @@ ngrok-agent.com
 ngrok-free.app
 ngrok.dev
 ngrok.io
+anthropic.com
+claude.ai
