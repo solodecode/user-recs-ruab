@@ -77,3 +77,9 @@ ngrok.dev
 ngrok.io
 anthropic.com
 claude.ai
+ngrok.app
+githubusercontent.com
+githubassets.com
+githubcopilot.com
+api.github.com
+oracle.com
