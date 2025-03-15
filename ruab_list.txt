@@ -80,6 +80,7 @@ claude.ai
 ngrok.app
 githubusercontent.com
 githubassets.com
+elevenlabs.io
 githubcopilot.com
 api.github.com
 oracle.com
