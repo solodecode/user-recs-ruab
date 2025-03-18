@@ -83,3 +83,4 @@ githubassets.com
 githubcopilot.com
 api.github.com
 oracle.com
+spotify.com
