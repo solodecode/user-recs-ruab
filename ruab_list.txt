@@ -64,9 +64,9 @@ discordstatus.com
 jetbrains.com
 jetbra.in
 4pda.to
-brawlstarsgame.com
-game.brawlstarsgame.com
-cdn.id.supercell.com
+brawlstarsgame.com dns.nullsproxy.com
+game.brawlstarsgame.com dns.nullsproxy.com
+cdn.id.supercell.com dns.nullsproxy.com
 sora.com
 ngrok.com
 ngrok-agent.com
@@ -191,4 +191,5 @@ x.ai
 clashroyaleapp.com
 clashroyale.com
 clashofclans.com
-supercell.com
+brawlstars.com
+brawlstarsgame.com
