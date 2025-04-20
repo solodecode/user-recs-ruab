@@ -24,7 +24,6 @@ gstatic.com
 googleads.g.doubleclick.net
 chatgpt.com
 openai.com
-github.com
 docker.elastic.co
 dis.gd
 discord-activities.com
@@ -76,10 +75,6 @@ ngrok.io
 anthropic.com
 claude.ai
 ngrok.app
-githubusercontent.com
-githubassets.com
-githubcopilot.com
-api.github.com
 oracle.com
 spotify.com
 xzcs3zlph.com
