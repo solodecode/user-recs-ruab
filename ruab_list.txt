@@ -191,3 +191,4 @@ netflix.com
 brawlstarsgame.com
 bestchange.net
 bestchange.com
+githubcopilot.com
